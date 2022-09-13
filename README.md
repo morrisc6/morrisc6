@@ -34,7 +34,16 @@ Additional Skills:
 - Neat and organized writing style, both in communication and documentation
 ---
 Several of my course projects are associated with my github account, feel free to take a look around and inspect my work.  I have left all materials associated with these projects in their respective repositories as a demonstration of my ability to adhere to guidelines and requirements.  Two examples of these are below:
+
 <details>
   <summary>Word Find</summary>
-  <p>A short Java program that parses an input file and finds string matches within the input.</p>
+  <p>A short Java program that parses an input file and finds string matches orthogonally and diagonally within the input.
+  </p>
+  https://github.com/morrisc6/wordfind
+</details>
+<details>
+  <summary>Puzzle Pegs</summary>
+  <p>A Java program that solves the "Cracker Barrel" puzzle game with (optionally) given starting and ending positions.
+  </p>
+  https://github.com/morrisc6/puzzlepegs
 </details>
