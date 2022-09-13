@@ -1,39 +1,33 @@
-## Hi, my name is Christian Morris!
+# About Me
 
-I am an undergraduate computer programmer interested in the following fields:
+I am an aspiring Computer Scientist interested in the following technical fields:
 - Software development
 - UX design
 - Game development
 
-
-I am currently attending Winthrop University with a 3.9 GPA and am expecting to graduate in December 2023 with two degrees:
+**I am currently attending Winthrop University with a 3.9 GPA and am expecting to graduate in December 2023 with two degrees:**
 - B.B.A. Computer Science
 - B.A. Music - Music Technology
 
-
-I have experience using the following programming languages (from most to least experience):
-1. C++
-2. C#
-3. Java
-4. Python
-5. SQL
-6. Javascript
-7. HTML and CSS
-
-
-My notable coursework includes:
+My relevant coursework includes:
 - Algorithm Analysis and Data Structures
 - Computer Architecture and Organization
 - Information Security
 - Software Engineering
 
+I have experience using the following programming languages:
+- C++ (3 years)
+- Java (2 years)
+- C# (1 year)
+- Python (1 year)
+- SQL (1 year)
 
 Additional Skills:
 - Strong background in mathematics including calculus, discrete mathematics, linear algebra, quantitative methods and statistics
 - Experience working in teams designing software and prototyping
 - Neat and organized writing style, both in communication and documentation
 ---
-Several of my course projects are associated with my GitHub account, feel free to take a look around and inspect my work.  I have left all materials associated with these projects in their respective repositories as a demonstration of my ability to adhere to guidelines and requirements.  Two examples of these are below:
+Including the two projects below, there are additional course projects listed in the repositories tab above.  This demonstrates my ability to adhere to guidelines and requirements.  Two examples of these are below:
 
 <details>
   <summary>Word Find</summary>
