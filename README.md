@@ -1,9 +1,9 @@
-#Hi, my name is Christian Morris!
+Hi, my name is Christian Morris!
 ---
 I am an undergraduate computer programmer interested in the following fields:
--Software development
--UX design
--Game development
+*Software development
+*UX design
+*Game development
 
 I am currently attending Winthrop University with a 3.9 GPA and am expecting to graduate in December 2023 with two degrees:
 -B.B.A. Computer Science
