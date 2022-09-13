@@ -12,8 +12,8 @@ I am an aspiring Computer Scientist interested in the following technical fields
 My relevant coursework includes:
 - Algorithm Analysis and Data Structures
 - Computer Architecture and Organization
-- Information Security
 - Software Engineering
+- Information Security
 
 I have experience using the following programming languages:
 - C++ (3 years)
