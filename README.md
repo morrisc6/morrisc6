@@ -33,7 +33,7 @@ Additional Skills:
 - Experience working in teams designing software and prototyping
 - Neat and organized writing style, both in communication and documentation
 ---
-Several of my course projects are associated with my github account, feel free to take a look around and inspect my work.  I have left all materials associated with these projects in their respective repositories as a demonstration of my ability to adhere to guidelines and requirements.  Two examples of these are below:
+Several of my course projects are associated with my GitHub account, feel free to take a look around and inspect my work.  I have left all materials associated with these projects in their respective repositories as a demonstration of my ability to adhere to guidelines and requirements.  Two examples of these are below:
 
 <details>
   <summary>Word Find</summary>
