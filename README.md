@@ -18,7 +18,8 @@
 **I have experience using the following programming languages:**
 - C++ (3 years)
 - Java (2 years)
-- C# (1 year)
+- C# (2 years)
+- XAML (1 year)
 - Python (1 year)
 - SQL (1 year)
 
