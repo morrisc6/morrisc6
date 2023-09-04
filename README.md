@@ -1,27 +1,32 @@
 # About Me
 
 **I am currently attending Winthrop University with a 3.9 GPA and am expecting to graduate in December 2023 with two degrees:**
-- B.B.A. Computer Science
+- B.S. Computer Science
 - B.A. Music - Music Technology
 
 **I am interested in the following technical fields:**
-- Software development
+- Software engineering
+- Machine learning
+- Web development
 - UX design
-- Game development
+- Cyber forensics
 
 **My relevant coursework includes:**
+- Software Engineering
 - Algorithm Analysis and Data Structures
 - Computer Architecture and Organization
-- Software Engineering
+- Network Processing
+- Database Processing
 - Information Security
+- Cyber Forensics
 
 **I have experience using the following programming languages:**
-- C++ (3 years)
-- Java (2 years)
+- C++ (4 years)
+- Java (3 years)
 - C# (2 years)
-- XAML (1 year)
-- Python (1 year)
-- SQL (1 year)
+- XAML (2 years)
+- Python (3 years)
+- SQL (2 years)
 
 **Additional Skills:**
 - Strong background in mathematics including calculus, discrete mathematics, linear algebra, quantitative methods and statistics
