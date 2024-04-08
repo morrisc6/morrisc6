@@ -1,6 +1,6 @@
 # About Me
 
-**I am currently attending Winthrop University with a 3.9 GPA and am expecting to graduate in December 2023 with two degrees:**
+**I have two degrees from Winthrop University:**
 - B.S. Computer Science
 - B.A. Music - Music Technology
 
