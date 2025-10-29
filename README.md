@@ -10,4 +10,5 @@ I am currently learning game development using [Godot](https://godotengine.org/)
 * Video games (especially open-world and automation games)
 
 ### `Special Interests`
-* Horses
+* Tea making
+* Horse racing
